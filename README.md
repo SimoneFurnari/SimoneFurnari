@@ -6,7 +6,7 @@ I am an aspiring musician with a small passion for programming.
 
 ### Aspiring musician
 
-- 📚 Studying at [Civica Scuola di Musica Claudio Abbado]([https://musica.fondazionemilano.eu](https://musica.fondazionemilano.eu/en/)
+- 📚 Studying at [Civica Scuola di Musica Claudio Abbado](https://musica.fondazionemilano.eu/en/)
 - 🌍 Living in Italy
 - 🌐 Languages: Italian - English
 
