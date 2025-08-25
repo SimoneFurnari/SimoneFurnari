@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an aspiring musician with a small passion for programming.
+I am an aspiring musician with a small passion for coding.
 
 ### Aspiring musician
 
